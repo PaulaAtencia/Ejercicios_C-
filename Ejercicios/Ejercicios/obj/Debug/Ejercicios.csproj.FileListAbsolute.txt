@@ -1,0 +1,7 @@
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Interfaces\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
